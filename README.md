@@ -1,4 +1,4 @@
-# Java Project
+# FitTracker-Console
 
 ## Description
 A simple Java console application for tracking exercises. Users can register cardio or strength exercises, view all registered exercises, and save or load them from a file. The project uses Java Records, interfaces, and file I/O for functionality.
